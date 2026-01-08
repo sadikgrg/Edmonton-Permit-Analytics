@@ -1,4 +1,4 @@
-# Edmonton Building Permits Analytic Dashboard
+# Edmonton Building Permits Analytics Dashboard
 
 Power BI dashboard using city of Edmonton building permit data with KPIs, annual trends, an ArcGIS heat map of permit hotspots, slicers, and a drill-through details page.
 
