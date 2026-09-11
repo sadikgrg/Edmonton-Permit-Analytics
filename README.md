@@ -3,7 +3,7 @@
 Power BI dashboard using city of Edmonton building permit data with KPIs, annual trends, an ArcGIS heat map of permit hotspots, slicers, and a drill-through details page.
 
 Images
-![alt text](https://github.com/sadikgrg/screenshots/"Overview screenshot.png")
+![alt text](https://github.com/sadikgrg/screenshots/Overview screenshot.png)
 
 
 
